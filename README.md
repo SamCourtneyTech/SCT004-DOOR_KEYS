@@ -1,6 +1,6 @@
 # DOOR_KEYS
 
-Live demo: [Run on Replit](https://replit.com/@samthecourtney/Door-Keys)
+Play it here: [samcourtney.tech/door-keys](https://samcourtney.tech/door-keys/)
 
 ## Overview  
 Web-based play interface. Access the project by visiting the above URL, interact via browser.
